@@ -1,4 +1,4 @@
-### 😀 Olá mim chamo Adilson 👋
+### 😀 Olá me chamo Adilson 👋
  
 Sou entusiasta e apaixonado por desenvolvimento de sistema, sou formando em Analise e Desenvolvimento de Sistema desde 2010. Tenho atuado em alguns projetos particulares, e sempre procurando aprender um pouco mais. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças. :computer:
 
