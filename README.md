@@ -1,4 +1,7 @@
-### Hi there 👋
+### 😀 Olá mim chamo Adilson 👋
+ 
+Sou entusiasta e apaixonado por desenvolvimento de sistema, sou formando em Analise e Desenvolvimento de Sistema desde 2010. Tenho atuado em alguns projetos particulares, e sempre procurando aprender um pouco mais. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças. :computer:
+
 
 <!--
 **adsadilson/adsadilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
